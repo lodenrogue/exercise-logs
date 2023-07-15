@@ -28,3 +28,11 @@ Output:
 2023-07-14,10,""
 2023-07-15,26,"swimming and walking"
 ```
+
+## Logs file path
+
+Change this line to set the location of your exercise logs file:
+
+```
+EXERCISE_LOGS_FILE_PATH = "/path/to/your/file/directory"
+```
